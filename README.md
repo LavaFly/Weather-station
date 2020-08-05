@@ -5,8 +5,5 @@ Parts for this Project:
  -BMP280
  -BME680
 The Wemos D1 mini creates a Webserver which shows the last 10 measurements of the above listed sensors.
-Current problems include:
- -Connection of multiple clients
- -updating the website after new measurements
  
  Future updates may follow.
